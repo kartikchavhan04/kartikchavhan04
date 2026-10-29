@@ -57,6 +57,6 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/kartik-chavhan-5428502a1/)
 - 📧 Email: [kartikpchachan2004@gmail.com](mailto:kartikpchachan2004@gmail.com)
-- 💻 [GitHub Profile](https://github.com/kartikchavhan04)
+- 💻 [Portfolio](https://kartik-portfolio-kappa.vercel.app/)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
